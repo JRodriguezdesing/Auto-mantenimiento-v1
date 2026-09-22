@@ -1,0 +1,6 @@
+{
+  "name": "AUTO MANTENIMIENTO",
+  "description": "Gestión integral de clientes, vehículos, historial de servicios, recordatorios automáticos de cambios de aceite y mantenimientos con respaldo en Google Sheets y avisos por WhatsApp y Correo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
